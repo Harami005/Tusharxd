@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/UNI_INDIA_0000"></a></p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7ecb9844fd7c0eaa5db67.jpg" alt="Logo">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Logo">
 </p>
 
 <p align="center">──「 𝙏𝙐𝙎𝙃𝘼𝙍 𝙎𝙋𝘼𝙈 𝙓 」──</p>
