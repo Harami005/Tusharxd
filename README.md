@@ -1,15 +1,15 @@
-<p align="center">──「 𝑺 𝑻 𝑶 𝑹 𝑴 🥀」──</p>
+<p align="center">──「 𝙏𝙐𝙎𝙃𝘼𝙍 𝙎𝙋𝘼𝙈 𝙓 」──</p>
  
 <h4 align="center"> 𝘼 𝙋𝙊𝙒𝙀𝙍𝙁𝙐𝙇𝙇 𝙎𝙋𝘼𝙈 𝘽𝙊𝙏</h4>
 
 <p align="center"><a href="https://t.me/UNI_INDIA_0000"></a></p>
 
 <p align="center">
-  <img src="./Storm.jpeg" alt="Logo">
+  <img src="https://telegra.ph/file/7ecb9844fd7c0eaa5db67.jpg" alt="Logo">
 </p>
 
-<p align="center">──「 𝑺 𝑻 𝑶 𝑹 𝑴 🥀」──</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">──「 𝙏𝙐𝙎𝙃𝘼𝙍 𝙎𝙋𝘼𝙈 𝙓 」──</p>
+<img src="https://mallucampaign.in/images/img_1710763003.jpg">
 # REQUIRED VARIBLES & DESCRIPTION
 
 
